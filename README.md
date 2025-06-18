@@ -1,28 +1,24 @@
 # jsp_kyobo
 
-<h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo_footer.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
 <h1  align='center'>📚교보문고 JSP 프로젝트</h1>
-<div align='center'>
-  <h3>
-    🔗 <a href="">AWS 나중에 추가할 예정</a> 사이트 바로가기
-  </h3>
-</div>
+
 <br/><br/>
 
 
 ## 목차
-- [개요](https://github.com/appcoding-ux/Spring_Project#-개요)
-- [기술 스택](https://github.com/appcoding-ux/Spring_Project#-기술-스택)
-- [프로젝트 설계](https://github.com/appcoding-ux/Spring_Project#-프로젝트-설계)
-- [핵심 기능](https://github.com/appcoding-ux/Spring_Project#-핵심-기능)
-- [주요기능 실행화면](https://github.com/appcoding-ux/Spring_Project#-주요기능-실행화면)
-- [개선사항](https://github.com/appcoding-ux/Spring_Project#-개선사항)
+- [개요](https://github.com/leedy79/jsp_kyobo#-개요)
+- [기술 스택](https://github.com/leedy79/jsp_kyobo#-기술-스택)
+- [프로젝트 설계](https://github.com/leedy79/jsp_kyobo#-프로젝트-설계)
+- [핵심 기능](https://github.com/leedy79/jsp_kyobo#-핵심-기능)
+- [주요기능 실행화면](https://github.com/leedy79/jsp_kyobo#-주요기능-실행화면)
+- [개선사항](https://github.com/leedy79/jsp_kyobo#-개선사항)
   
 
 
 ## 🚩 개요
 - 프로젝트 목표 : 다양한 `API`를 활용한 `스프링` , `마이바티스` 의류 쇼핑몰 프로젝트
-- 개발기간 : 23/11/27 ~ 23/12/15
+- 개발기간 : 25/06/16 ~ 25/06/18
 
 
 
