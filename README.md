@@ -17,20 +17,18 @@
 
 
 ## 🚩 개요
-- 프로젝트 목표 : `API`를 활용한 `JSP` 교모문고 사이트 프로젝트
+- 프로젝트 목표 : `API`를 활용한 `JSP` 교보문고 웹사이트 프로젝트
 - 개발기간 : 25/06/16 ~ 25/06/18
 
 
 
 ## 🔧 기술 스택
-- API : `카카오 API` `PORTONE API` `VWORLD API` `Tmap API`
+- API : `카카오 API`
 - Language : `Java(11)` `JavaScript(1.5)`
-- Library & Framework : `Spring(5.3.23)` `Junit(4.12)` `Servlet(4.0.1)` `Spring Security`
+- Library & Framework : `Servlet(4.0.1)`
 - Database : `MySQL(8.0.35)`
 - Target : `Web Browser`
-- Tool : `SpringSource Tool Suite (STS) 3.9.18.RELEASE`
-- Infra : `Linux(Ubuntu)` `EC2`
-- Etc : `Git`
+- Etc : `VSCODE` `Git`
 
 ## 🔨 개발 환경 🔨
 <div>
