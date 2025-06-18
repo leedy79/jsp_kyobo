@@ -30,11 +30,12 @@
 - Etc : `Eclipse` `Git`
 - Target : `Web Browser`
 
-## 👾 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
+## 👾 프로젝트 설계, 구현 📂 PPT
 
 
 
-<details><summary>프로젝트 설계, 구현, PPT</summary>   
+<details>
+<summary>프로젝트 설계, 구현, PPT</summary>   
 <div align="center">          
 
 | **![1](https://github.com/appcoding-ux/Spring_Project/assets/112378228/93729b54-d46f-410a-a16b-e9529d3c1d95)** | **![2](https://github.com/appcoding-ux/Spring_Project/assets/112378228/bc91e271-975e-4c6f-9703-02e32fe00e03)** |
