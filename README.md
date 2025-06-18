@@ -25,10 +25,10 @@
 ## 🔧 기술 스택
 - API : `카카오 API`
 - Language : `Java(11)` `JavaScript(1.5)`
-- Library & Framework : `Servlet(4.0.1)`
+- Library & Framework : `Jquery` `JSP` `Servlet(4.0.1)`
 - Database : `MySQL(8.0.35)`
 - Target : `Web Browser`
-- Etc : `VSCODE` `Git`
+- Etc : `Eclipse` `Git`
 
 ## 🔨 개발 환경 🔨
 <div>
