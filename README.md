@@ -24,12 +24,12 @@
 
 ## 🔧 기술 스택
 - API : `카카오 API`
-- Language : `Java(11)` `JavaScript(1.5)`
-- Library & Framework : `Jquery` `JSP` `Servlet(4.0.1)`
-- Database : `MySQL(8.0.35)`
-- Target : `Web Browser`
+- Language : `HTML` `CSS` `JavaScript` `Java(11)` 
+- Library & Framework : `Jquery` `JSP` `Servlet`
+- Database : `MySQL`
 - Etc : `Eclipse` `Git`
-
+- Target : `Web Browser`
+  
 ## 🔨 개발 환경 🔨
 <div>
 <img src="https://img.shields.io/badge/JAVA-C01818?style=flat-square&logo=coffeescript&logoColor=white" />
