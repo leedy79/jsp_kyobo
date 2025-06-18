@@ -1,6 +1,6 @@
 # jsp_kyobo
 
-<h1 align='center'> <img src='https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo_footer.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
+<h1 align='center'> <img src='https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo_footer.png' style='width: 168px; height: 48px;'>&nbsp;</h1>
 <h1  align='center'>📚교보문고 JSP 프로젝트</h1>
 
 <br/><br/>
