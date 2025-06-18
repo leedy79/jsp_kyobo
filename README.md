@@ -1,7 +1,7 @@
 # jsp_kyobo
 
 <h1 align='center'> <img src='https://cdn-icons-png.flaticon.com/512/5208/5208370.png' style='width: 300px; height: 200px;'>&nbsp;</h1>
-<h1  align='center'>👕스프링 의류 쇼핑몰 프로젝트</h1>
+<h1  align='center'>📚교보문고 JSP 프로젝트</h1>
 <div align='center'>
   <h3>
     🔗 <a href="">AWS 나중에 추가할 예정</a> 사이트 바로가기
