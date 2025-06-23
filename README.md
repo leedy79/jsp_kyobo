@@ -41,6 +41,14 @@
 
 ![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497)
 ![슬라이드2](https://github.com/user-attachments/assets/fd6b4ee7-f5c5-4744-ac09-0d230e436d8f)
+![슬라이드3](https://github.com/user-attachments/assets/1cfe97b4-c63e-4ef0-9029-07357aa3b564)
+![슬라이드4](https://github.com/user-attachments/assets/94d37f20-fd9b-4f3f-b90e-f4491c2736ca)
+![슬라이드5](https://github.com/user-attachments/assets/23ed0d62-622d-44b3-a9e1-fe87b6a5fc89)
+![슬라이드6](https://github.com/user-attachments/assets/289a32f2-696c-48b6-bccb-32a9e7daee17)
+![슬라이드7](https://github.com/user-attachments/assets/b545a453-dca7-46e6-96bb-9a804723537a)
+![슬라이드8](https://github.com/user-attachments/assets/35c1915e-49e4-4d7c-8bdc-065616fa3521)
+
+
 <!-- <details> -->
 <summary>프로젝트 설계, 구현, PPT</summary>   
 <div align="center"> 
