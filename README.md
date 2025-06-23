@@ -1,11 +1,12 @@
 # jsp_kyobo
 
 <h1 align='center'> <img src='https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo_footer.png' style='width: 168px; height: 48px;'>&nbsp;</h1>
+![kyobo_main](https://github.com/user-attachments/assets/cef597fa-caaa-4cfa-a673-783a521b3957)
 <h1  align='center'>📚교보문고 JSP 프로젝트</h1>
 
 <br/><br/>
 
-![kyobo_main](https://github.com/user-attachments/assets/cef597fa-caaa-4cfa-a673-783a521b3957)
+
 
 ## 목차
 - [개요](https://github.com/leedy79/jsp_kyobo#-개요)
