@@ -72,7 +72,7 @@
 
 | **![1](https://github.com/appcoding-ux/Spring_Project/assets/112378228/93729b54-d46f-410a-a16b-e9529d3c1d95)** | **![2](https://github.com/appcoding-ux/Spring_Project/assets/112378228/bc91e271-975e-4c6f-9703-02e32fe00e03)** |
 | :------: |  :------: |
-| ![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497) | ![4](https://github.com/appcoding-ux/Spring_Project/assets/112378228/ebb02617-0c19-4a9e-8868-53efdca2434e) |
+| ![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497) | ![슬라이드2](https://github.com/user-attachments/assets/fd6b4ee7-f5c5-4744-ac09-0d230e436d8f) |
 
 
 </div>            
