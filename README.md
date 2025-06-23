@@ -54,8 +54,6 @@
 | ![슬라이드23](https://github.com/user-attachments/assets/4dd3ef60-9b7e-4524-9bb8-f4987a4e7da3) | ![슬라이드24](https://github.com/user-attachments/assets/93ba65a9-85a8-460e-a144-cd02cd8c5209) |
 | ![슬라이드25](https://github.com/user-attachments/assets/91b6259e-0a52-482f-a72d-88263e5b178f) | ![슬라이드26](https://github.com/user-attachments/assets/3d37155f-305e-4331-b202-84a89126fd74) |
 | ![슬라이드27](https://github.com/user-attachments/assets/b45ee693-539e-4def-b24c-11329f0749ca) | 
-
-
 </div>            
 <!-- </details> -->
 
