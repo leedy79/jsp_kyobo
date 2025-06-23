@@ -5,10 +5,10 @@
 <br/><br/>
 
 
-## MAIN
+## 📑 MAIN
 ![kyobo_main](https://github.com/user-attachments/assets/6d902d16-a7cc-4287-a9a3-7b697e64f887)
 
-## SUB
+## 📑 SUB
 ![kyobo_sub](https://github.com/user-attachments/assets/a1708fab-8d19-4d59-85a2-023550175b98)
 
 
