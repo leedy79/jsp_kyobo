@@ -92,19 +92,17 @@
 * **회원가입 및 로그인, 회원정보 변경, 로그아웃**
   ![user](https://github.com/user-attachments/assets/84d45005-726d-4799-a01c-f42df5851f0e)
 
+* **관리자 페이지 - 상품관리**
 
-
+  * `상품관리` 메뉴에서 상품 목록을 확인하고 신규등록, 기존상품을 수정, 삭제 할 수 있습니다.
+  ![product_management](https://github.com/user-attachments/assets/23368082-d7f7-4b86-bac9-1362e58b0eb1)
 
 * **게시판 글 조회 및 관리**
-  * 상품 목록에서 상품의 사진을 클릭하면 `상품 상세 정보`를 확인할 수 있습니다.
+  * `게시판`의 게시글 목록을 확인하고 상세내용 확인, 게시글 등록, 게시글 수정, 삭제 할 수 있습니다.
  
     ![iteminfo](https://github.com/appcoding-ux/Spring_Project/assets/112378228/4fa7734d-728c-4186-95b1-682dcfa87cd8)
 
-* **관리자 페이지 - 상품관리**
 
-  * `제품관리` 메뉴에서 상품을 등록하거나 재고 및 이미지등을, 수정, 삭제 할 수 있습니다.
-
-  ![admin_item](https://github.com/appcoding-ux/Spring_Project/assets/112378228/f1c84a61-005c-48cc-805b-375908ce99ef)
 
 
 ## 🌄 개선사항
