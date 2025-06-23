@@ -2,10 +2,9 @@
 
 <h1 align='center'> <img src='https://contents.kyobobook.co.kr/resources/fo/images/common/ink/img_logo_kyobo_footer.png' style='width: 168px; height: 48px;'>&nbsp;</h1>
 <h1  align='center'>📚교보문고 JSP 프로젝트</h1>
-![kyobo_main](https://github.com/user-attachments/assets/0b0c3122-c5a5-4228-a51a-609ffe8c09d5)
-
 <br/><br/>
 
+![kyobo_main](https://github.com/user-attachments/assets/6d902d16-a7cc-4287-a9a3-7b697e64f887)
 
 
 ## 목차
