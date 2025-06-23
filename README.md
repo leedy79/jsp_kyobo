@@ -38,6 +38,9 @@
 - Target : `Web Browser`
 
 ## 👾 프로젝트 설계, 구현 📂 PPT
+
+![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497)
+
 <!-- <details> -->
 <summary>프로젝트 설계, 구현, PPT</summary>   
 <div align="center"> 
