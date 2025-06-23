@@ -38,7 +38,7 @@
 - Target : `Web Browser`
 
 ## 👾 프로젝트 설계, 구현 📂 PPT
-
+<summary>프로젝트 설계, 구현, PPT</summary>
 ![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497)
 ![슬라이드2](https://github.com/user-attachments/assets/fd6b4ee7-f5c5-4744-ac09-0d230e436d8f)
 ![슬라이드3](https://github.com/user-attachments/assets/1cfe97b4-c63e-4ef0-9029-07357aa3b564)
@@ -68,7 +68,7 @@
 ![슬라이드27](https://github.com/user-attachments/assets/b45ee693-539e-4def-b24c-11329f0749ca)
 
 <!-- <details> -->
-<summary>프로젝트 설계, 구현, PPT</summary>   
+   
 <div align="center"> 
 | **![1](https://github.com/appcoding-ux/Spring_Project/assets/112378228/93729b54-d46f-410a-a16b-e9529d3c1d95)** | **![2](https://github.com/appcoding-ux/Spring_Project/assets/112378228/bc91e271-975e-4c6f-9703-02e32fe00e03)** |
 | :------: |  :------: |
