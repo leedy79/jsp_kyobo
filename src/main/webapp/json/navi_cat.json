@@ -1,0 +1,65 @@
+[
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "자주구매",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "세일중",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "오반장",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "베스트",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "신상품",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "미식관",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "",
+    "content": "이벤트",
+    "src": "",
+    "alt": ""
+  },
+  {
+    "href": "sub.jsp",
+    "class": "brandStore",
+    "content": "브랜드관",
+    "src": "img/next.webp",
+    "alt": "down"
+  },
+  {
+    "href": "sub.jsp",
+    "class": "deliveryStore",
+    "content": "배송매장",
+    "src": "img/next.webp",
+    "alt": "down"
+  }
+]

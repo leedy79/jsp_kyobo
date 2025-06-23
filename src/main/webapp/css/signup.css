@@ -1,0 +1,104 @@
+@charset "utf-8";
+
+/* 전체 배경과 기본 글꼴 */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* 페이지 전체 영역 */
+#loginJoin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* 내부 박스 */
+.loginJoinDiv {
+    background-color: white;
+    padding: 40px 30px;
+    border-radius: 8px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 500px;
+}
+
+/* 제목 */
+.JoinDivTitle h1 {
+    text-align: center;
+    font-size: 26px;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+/* 폼 영역 */
+.JoinDivForm dl {
+    width: 100%;
+}
+
+.JoinDivForm dt {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #333;
+}
+
+.JoinDivForm dd {
+    margin: 5px 0 10px 0;
+}
+
+/* 입력 필드 */
+.joinInput {
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.3s;
+}
+
+.joinInput:focus {
+    border-color: #0073cf;
+    outline: none;
+}
+
+/* 라디오 버튼 */
+.joinRadio {
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+/* 버튼 */
+input[type="button"],
+.joinSubmit {
+    padding: 10px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="button"] {
+    background-color: #888;
+    color: #fff;
+    margin-left: 10px;
+}
+
+input[type="button"]:hover {
+    background-color: #666;
+}
+
+.joinSubmit {
+    margin-top: 25px;
+    width: 100%;
+    background-color: #0073cf;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.joinSubmit:hover {
+    background-color: #005fa3;
+}
