@@ -7,13 +7,13 @@
 
 ## 📑 MAIN
 ![kyobo_main](https://github.com/user-attachments/assets/6d902d16-a7cc-4287-a9a3-7b697e64f887)
-<br/>
+
 
 ## 📑 SUB
 ![kyobo_sub](https://github.com/user-attachments/assets/a1708fab-8d19-4d59-85a2-023550175b98)
 
 
-<br/>
+
 ## 목차
 - [개요](https://github.com/leedy79/jsp_kyobo#-개요)
 - [기술 스택](https://github.com/leedy79/jsp_kyobo#-기술-스택)
@@ -23,13 +23,13 @@
 - [개선사항](https://github.com/leedy79/jsp_kyobo#-개선사항)
   
 
-<br/>
+
 ## 🚩 개요
 - 프로젝트 목표 : `API` `JSP` MVC패턴을 활용한 교보문고 웹사이트 프로젝트
 - 개발기간 : 25/06/16 ~ 25/06/23
 
 
-<br/>
+
 ## 🔧 기술 스택
 - API : `카카오 API`
 - Language : `HTML` `CSS` `JavaScript` `Java(11)` 
@@ -37,7 +37,7 @@
 - Database : `MySQL`
 - Etc : `Eclipse` `Git`
 - Target : `Web Browser`
-<br/>
+
 ## 👾 프로젝트 설계, 구현 📂 PPT
 
 ![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497)
@@ -67,9 +67,9 @@
 ![슬라이드25](https://github.com/user-attachments/assets/91b6259e-0a52-482f-a72d-88263e5b178f)
 ![슬라이드26](https://github.com/user-attachments/assets/3d37155f-305e-4331-b202-84a89126fd74)
 ![슬라이드27](https://github.com/user-attachments/assets/b45ee693-539e-4def-b24c-11329f0749ca)
-<br/>
+
 ## 💻 핵심 기능
-<br/>
+
 #### 사용자
 - 회원가입, 로그인, 로그아웃
 - 아이디 중복 확인
@@ -86,7 +86,6 @@
 - 게시글 리스트, 게시글 작성, 게시글 수정, 게시글 삭제
 - 비밀번호 확인
 
-<br/>
 ## 🎇 주요기능 실행화면
 
 
@@ -102,7 +101,6 @@
   * `게시판`의 게시글 목록을 확인하고 상세내용 확인, 게시글 등록, 게시글 수정, 삭제 할 수 있습니다.
   ![board_management](https://github.com/user-attachments/assets/6e3900d1-b8ba-49ca-99a8-dae64c01d961)
 
-<br/>
 ## 🌄 개선사항
 - JSON 데이터 DB에서 처리하도록 개선
 - 게시글 작성 권한 강화(로그인 후 작성)
