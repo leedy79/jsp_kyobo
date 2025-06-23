@@ -32,9 +32,6 @@
 - Target : `Web Browser`
 
 ## 👾 프로젝트 설계, 구현 📂 PPT
-
-
-
 <!-- <details> -->
 <summary>프로젝트 설계, 구현, PPT</summary>   
 <div align="center"> 
