@@ -72,8 +72,8 @@
 
 | **![1](https://github.com/appcoding-ux/Spring_Project/assets/112378228/93729b54-d46f-410a-a16b-e9529d3c1d95)** | **![2](https://github.com/appcoding-ux/Spring_Project/assets/112378228/bc91e271-975e-4c6f-9703-02e32fe00e03)** |
 | :------: |  :------: |
-| ![3](https://github.com/appcoding-ux/Spring_Project/assets/112378228/623613ba-9831-4b75-98d3-5f90e5b0e686) | ![4](https://github.com/appcoding-ux/Spring_Project/assets/112378228/ebb02617-0c19-4a9e-8868-53efdca2434e) |
-| ![5](https://github.com/appcoding-ux/Spring_Project/assets/112378228/fff39b2a-3e92-49d5-9dd9-fbef0d195f63) | ![6](https://github.com/appcoding-ux/Spring_Project/assets/112378228/ad133312-a087-4f79-9874-5382026687fe) |
+|![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497) | ![4](https://github.com/appcoding-ux/Spring_Project/assets/112378228/ebb02617-0c19-4a9e-8868-53efdca2434e) |
+| ![5](https://github.com/appcoding-ux/Spring_Project/assets/112378228/fff39b2a-3e92-49d5-9dd9-fbef0d195f63) | ![슬라이드2](https://github.com/user-attachments/assets/fd6b4ee7-f5c5-4744-ac09-0d230e436d8f)
 | ![7](https://github.com/appcoding-ux/Spring_Project/assets/112378228/36bcf93b-6fb3-44b9-a099-3ad8b309559d) | ![8](https://github.com/appcoding-ux/Spring_Project/assets/112378228/0c2688c1-6f21-4309-90d2-363cbb8dd8bf) |
 | ![9](https://github.com/appcoding-ux/Spring_Project/assets/112378228/a2fc87cb-f78c-4256-8efe-1f49651337b2) | ![10](https://github.com/appcoding-ux/Spring_Project/assets/112378228/6af7f44a-d1f5-4812-9cb8-7cde3cd98494) |
 | ![11](https://github.com/appcoding-ux/Spring_Project/assets/112378228/1cef6129-7dd6-4481-8a86-9c3bdb84f27e) | ![12](https://github.com/appcoding-ux/Spring_Project/assets/112378228/88451e3c-f6f1-460c-b2e6-6091ce073bee) |
