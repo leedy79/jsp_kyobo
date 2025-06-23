@@ -35,7 +35,7 @@
 
 
 
-<details>
+<!-- <details> -->
 <summary>프로젝트 설계, 구현, PPT</summary>   
 <div align="center"> 
 ![슬라이드1](https://github.com/user-attachments/assets/2c2ba76b-8292-4078-ae1d-37095ba64497)
@@ -112,7 +112,7 @@
 | ![77](https://github.com/appcoding-ux/Spring_Project/assets/112378228/8c28f018-7596-4024-bb61-0ce6e95e731f)
 
 </div>            
-</details>
+<!-- </details> -->
 
 ## 💻 핵심 기능
 
