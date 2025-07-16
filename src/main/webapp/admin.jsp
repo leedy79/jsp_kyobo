@@ -11,7 +11,7 @@
 <link type="text/css" rel="stylesheet" href="css/admin.css">
 <link type="text/css" rel="stylesheet" href="css/reset.css">
 <link type="text/css" rel="stylesheet" href="css/common.css">
-<title>관리자 메인 페이지(테스트)</title>
+<title>관리자 메인 페이지(재테스트-test)</title>
 </head>
 <body>
 
